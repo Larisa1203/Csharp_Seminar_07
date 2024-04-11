@@ -1,0 +1,14 @@
+C:\Users\laris\OneDrive\Рабочий стол\GeekBrains\CSHARP\Seminar07\Homework1\bin\Debug\net8.0\Homework1.exe
+C:\Users\laris\OneDrive\Рабочий стол\GeekBrains\CSHARP\Seminar07\Homework1\bin\Debug\net8.0\Homework1.deps.json
+C:\Users\laris\OneDrive\Рабочий стол\GeekBrains\CSHARP\Seminar07\Homework1\bin\Debug\net8.0\Homework1.runtimeconfig.json
+C:\Users\laris\OneDrive\Рабочий стол\GeekBrains\CSHARP\Seminar07\Homework1\bin\Debug\net8.0\Homework1.dll
+C:\Users\laris\OneDrive\Рабочий стол\GeekBrains\CSHARP\Seminar07\Homework1\bin\Debug\net8.0\Homework1.pdb
+C:\Users\laris\OneDrive\Рабочий стол\GeekBrains\CSHARP\Seminar07\Homework1\obj\Debug\net8.0\Homework1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laris\OneDrive\Рабочий стол\GeekBrains\CSHARP\Seminar07\Homework1\obj\Debug\net8.0\Homework1.AssemblyInfoInputs.cache
+C:\Users\laris\OneDrive\Рабочий стол\GeekBrains\CSHARP\Seminar07\Homework1\obj\Debug\net8.0\Homework1.AssemblyInfo.cs
+C:\Users\laris\OneDrive\Рабочий стол\GeekBrains\CSHARP\Seminar07\Homework1\obj\Debug\net8.0\Homework1.csproj.CoreCompileInputs.cache
+C:\Users\laris\OneDrive\Рабочий стол\GeekBrains\CSHARP\Seminar07\Homework1\obj\Debug\net8.0\Homework1.dll
+C:\Users\laris\OneDrive\Рабочий стол\GeekBrains\CSHARP\Seminar07\Homework1\obj\Debug\net8.0\refint\Homework1.dll
+C:\Users\laris\OneDrive\Рабочий стол\GeekBrains\CSHARP\Seminar07\Homework1\obj\Debug\net8.0\Homework1.pdb
+C:\Users\laris\OneDrive\Рабочий стол\GeekBrains\CSHARP\Seminar07\Homework1\obj\Debug\net8.0\Homework1.genruntimeconfig.cache
+C:\Users\laris\OneDrive\Рабочий стол\GeekBrains\CSHARP\Seminar07\Homework1\obj\Debug\net8.0\ref\Homework1.dll
